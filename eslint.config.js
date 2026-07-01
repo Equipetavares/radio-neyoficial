@@ -1,0 +1,1 @@
+export default []; // Configuração vazia para não dar erro no deploy
